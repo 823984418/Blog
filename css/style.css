@@ -6,5 +6,17 @@
     Author     : 86151
 */
 
-#head {
+html > body{
+	background-color:#FAFAFA;
+}
+.card{
+	margin:50px auto;
+}
+.card.mdl-card {
+	width: 512px;
+}
+.card > .mdl-card__title {
+	color: #fff;
+	height: 176px;
+	background: url('https://getmdl.io/assets/demos/welcome_card.jpg') center / cover;
 }
