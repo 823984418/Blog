@@ -18,5 +18,4 @@ html > body{
 .card > .mdl-card__title {
 	color: #fff;
 	height: 176px;
-	background: url('https://getmdl.io/assets/demos/welcome_card.jpg') center / cover;
 }
